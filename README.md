@@ -1,6 +1,6 @@
 # my-project
 
-> my first project
+> 本项目基于vue2.0编写的饿了么高仿外卖软件，vue2.0+
 
 ## Build Setup
 
