@@ -1,6 +1,7 @@
 # my-project
 
-> 本项目基于vue2.0编写的饿了么高仿外卖软件，利用vue-cli脚手架工具和webpack自动化构建工具。
+> 本项目基于vue2.0编写的饿了么高仿外卖软件，利用vue-router+vue-resource与数据进行交互，利用vue-cli脚手架工具和webpack自动化构建工具。
+
 
 
 
